@@ -17,7 +17,7 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 gem 'require_all', '1.3.3'
 
 # Autoprefixer for all vendor-specific CSS attributes
-gem 'middleman-autoprefixer', '~>2.7.0'
+gem 'middleman-autoprefixer', '~>3.0.0'
 
 # Use sprokets for assets + compass
 gem 'middleman-compass', '4.0.1'
@@ -27,7 +27,7 @@ gem 'middleman-sprockets', '4.0.0'
 gem 'middleman-blog', '~> 4.0'
 
 # Boostrap as SASS
-gem 'bootstrap', '~> 4.0.0.alpha4'
+gem 'bootstrap', '~> 5.3.3'
 gem 'rails-assets-tether', '>= 1.1.0'
 gem 'sass', '3.4.19'
 
